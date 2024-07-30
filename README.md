@@ -1,6 +1,6 @@
 # flask-app-kubernetes
 
-Deploy Python Flask app to Kubernetes (k3d)
+Deploy Python Flask app to Kubernetes (eks)
 
 ## About
 
