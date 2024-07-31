@@ -29,7 +29,7 @@ spec:
           service:
             name: flask-app-service
             port:
-              number: 80
+              number: 8081
 ---
 apiVersion: apps/v1
 kind: Deployment
